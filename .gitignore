@@ -5,3 +5,10 @@
 *.toc
 *.bbl
 *.synctex.gz
+*.fdb_latexmk
+*.fls
+*.blg
+*.bcf
+*.run.xml
+*.lot
+*.lof
